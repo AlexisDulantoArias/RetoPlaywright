@@ -8,7 +8,7 @@ Crear una suite de pruebas automatizadas para la aplicación web Sauce Demo (htt
 Clonar el proyecto 💻
 
 ```bash
-  git clone https://github.com/AlexisDulantoArias/RetoAutomatizacionPlaywright.git
+  git clone https://github.com/AlexisDulantoArias/RetoPlaywright.git
 ```
 
 Instalar dependencias 🚗
